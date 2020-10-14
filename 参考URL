@@ -1,0 +1,16 @@
+https://babeljs.io/setup#installation
+npm init -y
+
+npm install --save-dev @babel/core @babel/cli
+
+
+Shohei 、21:49
+  "build": "babel ./src/index.js --out-file ./dist/index.js"
+
+  https://babeljs.io/docs/en/babel-preset-env
+
+  https://github.com/browserslist/browserslist
+
+  https://qiita.com/koedamon/items/92c986456e4b9e845acd#babelpreset-env
+
+  

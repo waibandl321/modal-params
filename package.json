@@ -1,0 +1,30 @@
+{
+  "name": "Modal-params",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel ./index.js --out-file ./dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waibandl321/modal-params.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waibandl321/modal-params/issues"
+  },
+  "homepage": "https://github.com/waibandl321/modal-params#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.11.6",
+    "@babel/core": "^7.11.6",
+    "@babel/preset-env": "^7.11.5"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.11.5",
+    "core-js": "^3.6.5"
+  }
+}
